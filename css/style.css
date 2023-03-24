@@ -428,7 +428,7 @@ h6, .h6 {
 
 @media (max-width: 1200px) {
   .display-1 {
-    font-size: calc(2.125rem + 10.5vw) ;
+    font-size: calc(2.125rem + 8.2vw) ;
   }
 }
 
@@ -676,6 +676,8 @@ pre code {
   flex: 0 0 50%;
   max-width: 50%;
 }
+
+
 
 .row-cols-3 > * {
   flex: 0 0 33.33333%;
@@ -9751,6 +9753,7 @@ h6,
 .btn {
   padding: 10px 25px;
   border-radius: 100px;
+ 
 }
 
 .btn-social {
