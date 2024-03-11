@@ -1,3 +1,3 @@
 # Portfolio
-Visit - [satakshikumari.github.io](https://satakshikumari.github.io)
+Visit -https://luxury-druid-c464d4.netlify.app/
 
